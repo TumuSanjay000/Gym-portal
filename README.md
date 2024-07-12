@@ -7,12 +7,12 @@ Class Schedule: Displays a schedule of fitness classes offered by the gym, inclu
 Membership Management: Enables administrators to manage member profiles, track payments, and update membership plans.
 Online Booking: Allows members to book slots for classes or appointments online.
 Responsive Design: Ensures the platform is accessible and functional across various devices and screen sizes.
-#Technologies Used:
+# Technologies Used:
 HTML: Structure of the webpage and content presentation.
 CSS: Styling the elements to create an intuitive and visually appealing interface.
 JavaScript: Implementing interactive features such as dynamic class schedules and member interactions.
 API Integration: Utilizes APIs for managing member data, class schedules, and online bookings.
-#Future Enhancements:
+# Future Enhancements:
 Implement payment gateway integration for online membership renewals and class bookings.
 Enhance administrator features with analytics and reporting tools for member engagement and class attendance.
 Introduce social features such as member forums or fitness challenges.
